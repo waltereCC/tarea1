@@ -54,3 +54,32 @@ body{
     background-color: #024070;
     transition: 0.5s;
 }
+#contenido{
+   position: absolute;
+    top:9%;
+    left:0%;
+    padding:10px;
+    height:81%;
+    width: 80%;
+    background-color: whitesmoke;
+    overflow: auto;
+}
+#barralateral{
+    position: absolute;
+    top:9%;
+    left:81%;
+    padding:45px;
+    height:81%;
+    width: 14%;
+    background-color: #023D66;
+    
+}
+#piepagina{
+    position: absolute;
+    bottom:0%;
+    left:0%;
+    height:4%;
+    width: 100%;
+    background-color: #AAB0A0;
+    text-align: center;
+}
